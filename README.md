@@ -3,9 +3,9 @@
 Git Mapper is a web tool designed to streamline the navigation and search of developers and their repositories on GitHub. With a sleek and intuitive UI design, Git Mapper provides an easy and enjoyable user experience. The tool allows users to search for developers and repositories based on recency, stars, and forks, as well as explore top favorite repositories.
 
 - **Front-end:** React.js, TailwindCSS.
-- **Back-end:** Node.js, Express.js, TailwindCSS, MongoDB (Mongoose) and Passport.js.
+- **Back-end:** Node.js, Express.js, MongoDB (Mongoose) and Passport.js.
 - **Others:** Vite (Frontend tooling) and Netlify (Hosting).
--
+
 ## Demo
 
 ![Git Mapper Main Page](./GitMapperImg1.png)
