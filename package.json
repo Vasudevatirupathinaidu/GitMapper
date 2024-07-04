@@ -1,0 +1,12 @@
+{
+  "name": "gitmapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
